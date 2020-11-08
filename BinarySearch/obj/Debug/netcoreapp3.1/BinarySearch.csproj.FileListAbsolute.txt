@@ -1,0 +1,15 @@
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csprojAssemblyReference.cache
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfoInputs.cache
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfo.cs
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.deps.json
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.json
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.dev.json
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.genruntimeconfig.cache
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/USFMToolsSharp.dll
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/bin/Debug/netcoreapp3.1/USFMToolsSharp.Linter.dll
+/Users/appdevmacbook5/Projects/BinarySearch/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csproj.CopyComplete
